@@ -1,0 +1,8 @@
+{
+  "name": "AFAS - AI Farmer Advisory System",
+  "description": "An agentic, offline-first advisory system providing structured agricultural guidance to farmers using deterministic rules and Gemini-powered explanations.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
